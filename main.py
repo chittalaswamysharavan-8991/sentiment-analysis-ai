@@ -70,3 +70,4 @@ pickle.dump(model, open("model.pkl", "wb"))
 pickle.dump(vectorizer, open("vectorizer.pkl", "wb"))
 
 print("\n💾 Model and Vectorizer saved successfully as .pkl files!")
+
